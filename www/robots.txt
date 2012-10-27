@@ -1,1 +1,6 @@
 # see http://www.robotstxt.org/orig.html for documentation
+
+# robots.txt for http://www.vokner.com/
+
+User-agent: *
+Disallow: /adminer/
